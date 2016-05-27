@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "async": "*",
-    "base58-native": "0.1.2",
+    "base58-native": "git://github.com/gasteve/node-base58.git",
     "bignum": "*",
     "morgan": "*",
     "darkcore": "git://github.com/UdjinM6/darkcore.git",
